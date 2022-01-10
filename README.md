@@ -1,2 +1,8 @@
-# xu100
-bist100 endeks ağırlığı/etkisi
+# Vue 3 + Vite
+
+
+ cd myvitevue
+  npm install
+  npm run dev
+ 
+ $ npm run dev -- --port 3001
