@@ -1,8 +1,10 @@
-# Vue 3 + Vite
+# xu100 endeks ağırlıkları
+
+cd myvitevue
+npm install
+npm run dev -- --port 3001
 
 
- cd myvitevue
-  npm install
-  npm run dev
- 
- $ npm run dev -- --port 3001
+
+
+https://xu100.netlify.app/
